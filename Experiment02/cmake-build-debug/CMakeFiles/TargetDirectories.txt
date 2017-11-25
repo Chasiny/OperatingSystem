@@ -1,0 +1,3 @@
+/home/chy/Project/C++/OperatingSystem/OperatingSystem/Experiment02/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/chy/Project/C++/OperatingSystem/OperatingSystem/Experiment02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/chy/Project/C++/OperatingSystem/OperatingSystem/Experiment02/cmake-build-debug/CMakeFiles/Experiment02.dir

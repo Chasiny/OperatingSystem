@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/chy/Project/C++/OperatingSystem/OperatingSystem/Experiment02/Banker.cpp
+Banker.h
+/home/chy/Project/C++/OperatingSystem/OperatingSystem/Experiment02/Banker.h
+
+/home/chy/Project/C++/OperatingSystem/OperatingSystem/Experiment02/Banker.h
+time.h
+-
+cstdlib
+-
+cstdio
+-
+Global.h
+/home/chy/Project/C++/OperatingSystem/OperatingSystem/Experiment02/Global.h
+Process.h
+/home/chy/Project/C++/OperatingSystem/OperatingSystem/Experiment02/Process.h
+
+/home/chy/Project/C++/OperatingSystem/OperatingSystem/Experiment02/Global.h
+
+/home/chy/Project/C++/OperatingSystem/OperatingSystem/Experiment02/Process.cpp
+Process.h
+/home/chy/Project/C++/OperatingSystem/OperatingSystem/Experiment02/Process.h
+
+/home/chy/Project/C++/OperatingSystem/OperatingSystem/Experiment02/Process.h
+
+/home/chy/Project/C++/OperatingSystem/OperatingSystem/Experiment02/main.cpp
+iostream
+-
+Banker.h
+/home/chy/Project/C++/OperatingSystem/OperatingSystem/Experiment02/Banker.h
+
